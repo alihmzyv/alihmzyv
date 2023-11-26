@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Java, Spring Framework**
+- 🌱 I’m currently learning and practicing **Java, DSA, Spring, SQL and NoSQL databases, Design Patterns, Microservices, Docker, Kubernetes and so on.**
 
 - 📫 How to reach me: **alihmzyv@gmail.com**
 
